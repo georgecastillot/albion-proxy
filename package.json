@@ -1,0 +1,13 @@
+{
+  "name": "albion-proxy",
+  "version": "1.0.0",
+  "description": "Proxy con Puppeteer para AlbionDB",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "puppeteer": "^22.5.0"
+  }
+}
